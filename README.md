@@ -1,2 +1,2 @@
-# Zidio_Connect
-Zidio Internship- Java Full Stack Project
+# Zidio-Development
+Zidio Development internship Projects
